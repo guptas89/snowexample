@@ -14,9 +14,9 @@
         <lock>false</lock>
         <oauth2_profile/>
         <protocol_name/>
-        <qualified_name>IPInfo [ QuestinLogin ]</qualified_name>
+        <qualified_name>IPInfo1 [ QuestinLogin ]</qualified_name>
         <rest_endpoint>https://www.questin.co/api/v1/people/login</rest_endpoint>
-        <rest_message display_value="IPInfo">0614c866db012300756c9b81ca9619b5</rest_message>
+        <rest_message display_value="IPInfo1">0614c866db012300756c9b81ca9619b5</rest_message>
         <sys_class_name>sys_rest_message_fn</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-10-12 06:50:50</sys_created_on>
